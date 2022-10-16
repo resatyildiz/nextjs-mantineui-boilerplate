@@ -1,4 +1,4 @@
-import { createStyles, Text, Container, ActionIcon, Group } from '@mantine/core';
+import { Text, Container, ActionIcon, Group } from '@mantine/core';
 import { IconBrandTwitter, IconBrandYoutube, IconBrandInstagram } from '@tabler/icons';
 import { XHeaderLink } from '../Header/XHeader';
 import { useFooterStyles } from './XFooter.style';

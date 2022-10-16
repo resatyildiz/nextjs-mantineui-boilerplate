@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Header, Group, ActionIcon, Container, Burger, Text } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
-import { IconBrandTwitter, IconBrandYoutube, IconBrandInstagram } from '@tabler/icons';
 import { useHeaderStyles } from './XHeaderStyle';
 import Link from 'next/link';
 import { socialMediaLinks } from '../../constants/socialMediaLinks';
