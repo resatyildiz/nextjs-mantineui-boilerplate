@@ -1,4 +1,4 @@
-interface CarouselData {
+export interface CarouselData {
     image: string;
     title: string;
     category: string;
